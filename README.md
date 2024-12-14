@@ -1,5 +1,5 @@
 # Swift projects
-In this repository we'll find my first Swift projects when made Codecadmy course.
+In this repository, you will find my first Swift files created when I began the Codecadmy course.
 
 ## Struct
 Gym Plan project 
